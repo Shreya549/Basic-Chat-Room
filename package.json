@@ -19,7 +19,7 @@
   "devDependencies": {
     "nodemon": "^2.0.2"
   },
-"scripts": { "start": "node index.js" }
+"script": { "start": "node index.js" }
 }
 
 
